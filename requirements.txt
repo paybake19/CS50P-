@@ -1,0 +1,4 @@
+## The only external package used was pyfiglet, referenced below ##
+
+pyfiglet == 1.0.3
+
